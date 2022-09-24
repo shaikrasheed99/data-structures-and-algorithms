@@ -19,7 +19,7 @@ package bit_manipulation.easy;
 
 public class MinimumBitFlipsToConvertNumber {
     public static void main(String[] args) {
-        int start = 3, goal = 4;
+        int start = 31, goal = 2;
 
         System.out.println("Minimum bits: " + minimumBitsFlipsToConvertNumber(start, goal));
     }
@@ -29,10 +29,8 @@ public class MinimumBitFlipsToConvertNumber {
         int count = 0;
 
         while (xor != 0) {
-            if ((xor & 1) == 1) {
-                count++;
-            }
-            xor >>= 1;
+            count++;
+            xor = (xor & (xor - 1));
         }
 
         return count;
