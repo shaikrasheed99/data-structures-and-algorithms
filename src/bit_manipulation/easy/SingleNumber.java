@@ -2,6 +2,7 @@ package bit_manipulation.easy;
 
 import java.util.Arrays;
 import java.util.HashMap;
+import java.util.Map;
 
 /***
  * Problem 136 in Leetcode: https://leetcode.com/problems/single-number/
@@ -83,22 +84,17 @@ public class SingleNumber {
 
         for (int num : nums) {
             if (!map.containsKey(num)) {
-                map.put(num, 2);
+                map.put(num, 1);
+            } else {
+                map.remove(num);
             }
         }
 
-        for (int num : nums) {
-            if (map.containsKey(num)) {
-                map.put(num, map.get(num) - 1);
+        for (Map.Entry<Integer, Integer> entry : map.entrySet()) {
+            if (entry.getValue() == 1) {
+                return entry.getKey();
             }
         }
-
-        for (int num : nums) {
-            if (map.get(num) == 1) {
-                return num;
-            }
-        }
-
         return -1;
     }
 
