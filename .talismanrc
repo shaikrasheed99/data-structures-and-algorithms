@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: src/arrays/easy/SortArrayByParity.java
+  checksum: b8c133e71c80cf6b4d4354d6316099b2da88a22ef24e6ccd46e043ccf908cc1f
+version: ""
