@@ -9,6 +9,8 @@
   * [1475](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/). Final Prices With a Special Discount in a Shop - [code](src/arrays/easy/NextSmallerElement.java)
   * [1979](https://leetcode.com/problems/find-greatest-common-divisor-of-array/). Find Greatest Common Divisor of Array - [code](src/arrays/easy/GCDInArray.java)
   * [485](https://leetcode.com/problems/max-consecutive-ones/). Max Consecutive Ones - [code](src/arrays/easy/MaxConsecutiveOnes.java)
+  * [905](https://leetcode.com/problems/sort-array-by-parity/). Sort Array By Parity - [code](src/arrays/easy/SortArrayByParity.java)
+  * [Gfg](https://practice.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1). Segregate 0s and 1s - [code](src/arrays/easy/Segregate0sAnd1s.java)
 * Medium:
   * [54](https://leetcode.com/problems/spiral-matrix/). Spiral Matrix I - [code](src/arrays/medium/SpiralMatrixOne.java)
   * [59](https://leetcode.com/problems/spiral-matrix-ii/). Spiral Matrix II - [code](src/arrays/medium/SpiralMatrixTwo.java)
