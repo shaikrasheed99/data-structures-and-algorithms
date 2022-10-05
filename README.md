@@ -17,6 +17,7 @@
   * [2326](https://leetcode.com/problems/spiral-matrix-iv/). Spiral Matrix IV - [code](src/arrays/medium/SpiralMatrixFour.java)
   * [1996](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/). The Number of Weak Characters in Game - [code](src/arrays/medium/NumberOfWeakCharacters.java)
   * [503](https://leetcode.com/problems/next-greater-element-ii/). Next Greater Element II - [code](src/arrays/medium/NextGreaterElementCircular.java)
+  * [75](https://leetcode.com/problems/sort-colors/). Sort Colors - [code](src/arrays/medium/Sort0s1s2s.java)
 
 ## Math:
 * Easy: 
