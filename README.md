@@ -54,6 +54,7 @@
   * [371](https://leetcode.com/problems/sum-of-two-integers/). Sum of Two Integers - [code](src/bit_manipulation/medium/SumOfTwoIntegers.java)
   * [201](https://leetcode.com/problems/bitwise-and-of-numbers-range/). Bitwise AND of Numbers Range - [code](src/bit_manipulation/medium/BitwiseAndOfNumbersRange.java)
   * [1680](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/). Concatenation of Consecutive Binary Numbers - [code](src/bit_manipulation/medium/ConcatenationOfConsecutiveBinaryNumbers.java)
+  * [78](https://leetcode.com/problems/subsets/). Subsets - [code](src/bit_manipulation/medium/Subsets.java)
 
 ## Strings:
 * Easy:
