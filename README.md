@@ -55,6 +55,7 @@
   * [201](https://leetcode.com/problems/bitwise-and-of-numbers-range/). Bitwise AND of Numbers Range - [code](src/bit_manipulation/medium/BitwiseAndOfNumbersRange.java)
   * [1680](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/). Concatenation of Consecutive Binary Numbers - [code](src/bit_manipulation/medium/ConcatenationOfConsecutiveBinaryNumbers.java)
   * [78](https://leetcode.com/problems/subsets/). Subsets - [code](src/bit_manipulation/medium/Subsets.java)
+  * [50](https://leetcode.com/problems/powx-n/). Pow(x, n) - [code](src/bit_manipulation/medium/PowerOfXAndN.java)
 
 ## Strings:
 * Easy:
