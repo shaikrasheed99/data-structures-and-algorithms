@@ -57,6 +57,7 @@
   * [78](https://leetcode.com/problems/subsets/). Subsets - [code](src/bit_manipulation/medium/Subsets.java)
   * [50](https://leetcode.com/problems/powx-n/). Pow(x, n) - [code](src/bit_manipulation/medium/PowerOfXAndN.java)
   * [29](https://leetcode.com/problems/divide-two-integers/). Divide Two Integers - [code](src/bit_manipulation/medium/DivideTwoIntegers.java)
+  * [Gfg](https://practice.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1). Count total set bits - [code](src/bit_manipulation/medium/CountTotalSetBits.java)
 
 ## Strings:
 * Easy:
