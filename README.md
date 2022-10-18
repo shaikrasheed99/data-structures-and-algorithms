@@ -35,6 +35,7 @@
 * Medium:
   * [7](https://leetcode.com/problems/reverse-integer/). Reverse Integer - [code](src/math/medium/ReverseInteger.java)
   * [1390](https://leetcode.com/problems/four-divisors/). Four Divisors - [code](src/math/medium/FourDivisors.java)
+  * [204](https://leetcode.com/problems/count-primes/). Count Primes - [code](src/math/medium/CountPrimes.java)
 
 ## Bit Manipulation:
 * Easy:
