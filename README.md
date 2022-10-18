@@ -34,6 +34,7 @@
   * [Gfg](https://practice.geeksforgeeks.org/problems/sum-of-all-divisors-from-1-to-n4738/1). Sum of all divisors from 1 to n - [code](src/math/easy/SumOfAllDivisors.java)
 * Medium:
   * [7](https://leetcode.com/problems/reverse-integer/). Reverse Integer - [code](src/math/medium/ReverseInteger.java)
+  * [1390](https://leetcode.com/problems/four-divisors/). Four Divisors - [code](src/math/medium/FourDivisors.java)
 
 ## Bit Manipulation:
 * Easy:
