@@ -26,6 +26,7 @@
   * [1281](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/). Subtract the Product and Sum of Digits of an Integer - [code](src/math/easy/SubtractProductAndSum.java)
   * [1290](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/). Convert Binary Number in a Linked List to Integer - [code](src/math/easy/BinaryLinkedListToDecimal.java)
   * [231](https://leetcode.com/problems/power-of-two/). Power of Two - [code](src/math/easy/PowerOfTwo.java)
+  * [1175](https://leetcode.com/problems/prime-arrangements/). Prime Arrangements - [code](src/math/easy/PrimeArrangements.java)
   * [Gfg](https://practice.geeksforgeeks.org/problems/lcm-and-gcd4516/1). LCM and GCD - [code](src/math/easy/GCDAndLCM.java)
   * [Gfg](https://practice.geeksforgeeks.org/problems/armstrong-numbers2727/1). Armstrong Number - [code](src/math/easy/ArmstrongNumberCheck.java)
   * [Gfg](https://practice.geeksforgeeks.org/problems/count-digits5716/1). Count digits - [code](src/math/easy/CountDigitsGFG.java)
