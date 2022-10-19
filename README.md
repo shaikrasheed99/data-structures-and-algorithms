@@ -48,6 +48,7 @@
   * [338](https://leetcode.com/problems/counting-bits/). Counting Bits - [code](src/bit_manipulation/easy/CountingBits.java)
   * [137](https://leetcode.com/problems/single-number-ii/). Single Number II - [code](src/bit_manipulation/easy/OneSingleNumberInGroupOfThreeNumbers.java)
   * [260](https://leetcode.com/problems/single-number-iii/). Single Number III - [code](src/bit_manipulation/easy/TwoSingleNumbers.java)
+  * [405](https://leetcode.com/problems/convert-a-number-to-hexadecimal/). Convert a Number to Hexadecimal - [code](src/bit_manipulation/easy/ConvertANumberToHexadecimal.java)
   * [Gfg](https://practice.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1). Check whether K-th bit is set or not - [code](src/bit_manipulation/easy/CheckKthBitIsSet.java)
   * [Gfg](https://practice.geeksforgeeks.org/problems/odd-or-even3618/1). Odd or Even - [code](src/bit_manipulation/easy/OddOrEven.java)
   * [Gfg](https://practice.geeksforgeeks.org/problems/set-kth-bit3724/1). Set kth bit - [code](src/bit_manipulation/easy/SetKthBit.java)
