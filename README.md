@@ -56,6 +56,7 @@
   * [Gfg](https://practice.geeksforgeeks.org/problems/set-kth-bit3724/1). Set kth bit - [code](src/bit_manipulation/easy/SetKthBit.java)
   * [Gfg](https://practice.geeksforgeeks.org/problems/set-the-rightmost-unset-bit4436/1). Set the rightmost unset bit - [code](src/bit_manipulation/easy/SetRightMostUnsetBit.java)
   * [Gfg](https://practice.geeksforgeeks.org/problems/find-position-of-set-bit3706/1). Find position of set bit - [code](src/bit_manipulation/easy/PositionOfSetBit.java)
+  * [Gfg](https://practice.geeksforgeeks.org/problems/copy-set-bits-in-range0623/1). Copy Set Bits in Range - [code](src/bit_manipulation/easy/CopySetBitsInRange.java)
 * Medium:
   * [371](https://leetcode.com/problems/sum-of-two-integers/). Sum of Two Integers - [code](src/bit_manipulation/medium/SumOfTwoIntegers.java)
   * [201](https://leetcode.com/problems/bitwise-and-of-numbers-range/). Bitwise AND of Numbers Range - [code](src/bit_manipulation/medium/BitwiseAndOfNumbersRange.java)
