@@ -35,6 +35,7 @@
   * [Gfg](https://practice.geeksforgeeks.org/problems/binary-number-to-decimal-number3525/1). Binary to Decimal - [code](src/math/easy/BinaryToDecimal.java)
   * [Gfg](https://practice.geeksforgeeks.org/problems/sum-of-all-divisors-from-1-to-n4738/1). Sum of all divisors from 1 to n - [code](src/math/easy/SumOfAllDivisors.java)
   * [Gfg](https://practice.geeksforgeeks.org/problems/sieve-of-eratosthenes5242/1). Sieve of Eratosthenes - [code](src/math/easy/SieveOfEratosthenes.java)
+  * [Gfg](https://practice.geeksforgeeks.org/problems/prime-factors5052/1). Prime Factors - [code](src/math/easy/PrimeFactors.java)
 * Medium:
   * [7](https://leetcode.com/problems/reverse-integer/). Reverse Integer - [code](src/math/medium/ReverseInteger.java)
   * [1390](https://leetcode.com/problems/four-divisors/). Four Divisors - [code](src/math/medium/FourDivisors.java)
