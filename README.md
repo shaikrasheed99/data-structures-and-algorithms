@@ -18,6 +18,8 @@
   * [1996](https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/). The Number of Weak Characters in Game - [code](src/arrays/medium/NumberOfWeakCharacters.java)
   * [503](https://leetcode.com/problems/next-greater-element-ii/). Next Greater Element II - [code](src/arrays/medium/NextGreaterElementCircular.java)
   * [75](https://leetcode.com/problems/sort-colors/). Sort Colors - [code](src/arrays/medium/Sort0s1s2s.java)
+* Hard:
+  * [41](https://leetcode.com/problems/first-missing-positive/). First Missing Positive - [code](src/arrays/hard/FirstMissingPositive.java)
 
 ## Math:
 * Easy: 
@@ -28,6 +30,7 @@
   * [231](https://leetcode.com/problems/power-of-two/). Power of Two - [code](src/math/easy/PowerOfTwo.java)
   * [1175](https://leetcode.com/problems/prime-arrangements/). Prime Arrangements - [code](src/math/easy/PrimeArrangements.java)
   * [258](https://leetcode.com/problems/add-digits/). Add Digits - [code](src/math/easy/AddDigits.java)
+  * [202](https://leetcode.com/problems/happy-number/). Happy Number - [code](src/math/easy/HappyNumber.java)
   * [Gfg](https://practice.geeksforgeeks.org/problems/lcm-and-gcd4516/1). LCM and GCD - [code](src/math/easy/GCDAndLCM.java)
   * [Gfg](https://practice.geeksforgeeks.org/problems/armstrong-numbers2727/1). Armstrong Number - [code](src/math/easy/ArmstrongNumberCheck.java)
   * [Gfg](https://practice.geeksforgeeks.org/problems/count-digits5716/1). Count digits - [code](src/math/easy/CountDigitsGFG.java)
